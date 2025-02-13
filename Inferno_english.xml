@@ -1747,7 +1747,7 @@
 	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144519490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T14:45:19.490Z",
-	"dcterms:modified": "2025-02-13T14:45:19.490Z",
+	"dcterms:modified": "2025-02-13T14:45:58.779Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/KatyaZhe",
 		"@type": [
@@ -1788,7 +1788,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -2058,7 +2059,7 @@
 
             <lg n="42">
                <l n="124">I saw <persName key="Camilla" ref="http://www.wikidata.org/entity/Q2843754" type="real">Camilla</persName> and <persName key="Penthesilea" ref="http://www.wikidata.org/entity/Q379828" cert="high" type="fictional">Penthesilea</persName></l>
-               <l n="125">On the other side, and saw the <persName key="Latinus" ref="http://www.wikidata.org/entity/Q779406" type="real">King Latinus</persName>,</l>
+               <l n="125">On the other side, and saw the <persName key="Latinus" ref="http://www.wikidata.org/entity/Q779406" type="real" cert="high">King Latinus</persName>,</l>
                <l n="126">Who with Lavinia his daughter sat;</l>
             </lg>
 
