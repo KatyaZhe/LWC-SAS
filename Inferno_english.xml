@@ -55,7 +55,7 @@
 	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213141558604",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-02-13T14:15:58.604Z",
-	"dcterms:modified": "2025-02-13T14:15:58.604Z",
+	"dcterms:modified": "2025-02-13T14:19:46.534Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/KatyaZhe",
 		"@type": [
@@ -96,7 +96,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
@@ -117,7 +118,7 @@
          <div>
             <pb facs="https://upload.wikimedia.org/wikipedia/commons/3/38/Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
-            <byline><persName key="Dante Alighieri" ref="http://www.wikidata.org/entity/Q1067">Dante Alighieri</persName></byline>
+            <byline><persName key="Dante Alighieri" ref="http://www.wikidata.org/entity/Q1067" cert="high" type="real">Dante Alighieri</persName></byline>
             <lg n="1">
                <l n="1">Broke the deep lethargy within my head</l>
                <l n="2">A heavy thunder, so that I upstarted,</l>
