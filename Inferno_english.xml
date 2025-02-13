@@ -2549,7 +2549,7 @@
             <lg n="43">
                <l n="127">I saw that <persName key="Marcus Junius Brutus" ref="http://www.wikidata.org/entity/Q172248" cert="high">Brutus</persName> who drove Tarquin forth,</l>
                <l n="128"><persName key="Lucretia" ref="http://www.wikidata.org/entity/Q229432" cert="medium">Lucretia</persName>, <persName key="Julia the Elder" ref="http://www.wikidata.org/entity/Q2259" cert="high" type="real">Julia</persName>, <persName key="Marcia" ref="http://www.wikidata.org/entity/Q1893525" cert="medium">Marcia</persName>, and <persName key="Cornelia" ref="http://www.wikidata.org/entity/Q234533" cert="high" type="real">Cornelia</persName>,</l>
-               <l n="129">And saw alone, apart, the Saladin.</l>
+               <l n="129">And saw alone, apart, the <persName>Saladin</persName>.</l>
             </lg>
 
             <lg n="44">
