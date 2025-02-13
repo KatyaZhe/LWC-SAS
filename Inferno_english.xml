@@ -52,10 +52,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213141558604",
+	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142107927",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T14:15:58.604Z",
-	"dcterms:modified": "2025-02-13T14:21:07.927Z",
+	"dcterms:created": "2025-02-13T14:21:07.927Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/KatyaZhe",
 		"@type": [
@@ -66,7 +65,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213141558604#Target",
+		"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142107927#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml",
@@ -80,7 +79,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213141558604#Selector",
+			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213142107927#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -1744,10 +1743,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144519490",
+	"id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144558779",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-02-13T14:45:19.490Z",
-	"dcterms:modified": "2025-02-13T14:45:58.779Z",
+	"dcterms:created": "2025-02-13T14:45:58.779Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/KatyaZhe",
 		"@type": [
@@ -1758,7 +1756,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144519490#Target",
+		"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144558779#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml",
@@ -1772,7 +1770,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144519490#Selector",
+			"@id": "https://raw.githubusercontent.com/KatyaZhe/LWC-SAS/main/Inferno_english.xml?person_annotation_20250213144558779#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[42]/l[2]/persName"
 		}
@@ -3962,7 +3960,7 @@
             <lg n="26">
                <l n="76">And he to me: “The honourable name,</l>
                <l n="77">That sounds of them above there in thy life,</l>
-               <l n="78">Wins grace in <placeName key="heaven" ref="http://www.wikidata.org/entity/Q4489450">Heaven<precision match="@ref" precision="Unknown"/></placeName>, that so advances them.”</l>
+               <l n="78">Wins grace in <placeName key="heaven" ref="http://www.wikidata.org/entity/Q4489450">Heaven</placeName>, that so advances them.”</l>
             </lg>
 
             <lg n="27">
